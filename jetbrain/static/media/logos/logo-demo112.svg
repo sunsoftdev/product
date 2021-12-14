@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 80" style="enable-background:new 0 0 300 80;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#1A1A1A;}
+	.st1{fill:url(#XMLID_4_);}
+	.st2{font-family:'Roboto-Black';}
+	.st3{font-size:27.8507px;}
+</style>
+<g id="XMLID_1_">
+	<path id="XMLID_6_" class="st0" d="M88.3,40.09c0-20.38-16.52-36.91-36.91-36.91c-20.38,0-36.91,16.52-36.91,36.91
+		C14.49,60.48,31.01,77,51.39,77c5.46,0,10.64-1.2,15.31-3.32c-3.43,1.26-7.13,1.94-10.99,1.94c-5.83,0-11.3-1.57-16.01-4.3
+		c26.92-9.31,31.39-20.85,31.39-20.85C60.81,62.74,42.16,67.88,36.51,69.2c-7.48-5.64-12.39-14.49-12.7-24.5
+		c31.46-6.6,40.58-26.94,40.58-26.94c-9.91,15.85-29.98,21.54-40.5,23.48c1.26-16.47,15.02-29.44,31.81-29.44
+		c17.62,0,31.9,14.28,31.9,31.91c0,2.01-0.19,3.97-0.55,5.87C87.87,46.56,88.3,43.38,88.3,40.09z"/>
+	<linearGradient id="XMLID_4_" gradientUnits="userSpaceOnUse" x1="4.045" y1="33.9211" x2="87.314" y2="33.9211">
+		<stop  offset="0" style="stop-color:#FAA61A"/>
+		<stop  offset="0.5969" style="stop-color:#F37021"/>
+		<stop  offset="1" style="stop-color:#E11B22"/>
+	</linearGradient>
+	<path id="XMLID_2_" class="st1" d="M4.05,63.46c0,0,67.11-9.28,83.27-59.07C87.31,4.39,80.18,57.61,4.05,63.46z"/>
+</g>
+<text transform="matrix(1 0 0 1 97.999 53.291)" class="st0 st2 st3">Company Name</text>
+</svg>
